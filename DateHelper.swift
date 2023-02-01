@@ -134,6 +134,36 @@ struct DateHelper{
     let dayDifference = self.daysFrom(firstDate: date!, toSecondDate: now!)
       return dayDifference == 0
   }
+  
+    static func dateIsThisYear(_ date: Date?) -> Bool {
+      return self.dateIsThisYear(date, now: Date())
+  }
+
+  static func dateIsThisYear(_ date: Date?, now: Date?) -> Bool {
+      let calendar = Calendar.current
+      if let date, let now {
+          return calendar.component(.year, from: date) == calendar.component(.year, from: now)
+      }
+      return false
+  }
+  
+  static func dateIsYesterday(_ date: Date?) -> Bool {
+      return self.dateIsYesterday(date, now: Date())
+  }
+
+  static func dateIsYesterday(_ date: Date?, now: Date?) -> Bool {
+    let dayDifference = self.daysFrom(firstDate: date!, toSecondDate: now!)
+      return dayDifference == 1
+  }
+  
+  static func formatDate(asTime date: Date?) -> String? {
+      var dateTimeString: String? = nil
+      if let date {
+        
+        dateTimeString = DateHelper.timeFormatter.string(from: date)
+      }
+      return dateTimeString
+  }
 }
 
 extension Logger {
