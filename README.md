@@ -22,4 +22,4 @@ Click the Medium badge to read the article.
 [Rajai kumar](https://github.com/Rajaikumar-iOSDev)
 
 # 🔖 Licence 
-The project is availabe under [AGPL-3.0 license]https://github.com/Rajaikumar-iOSDev/DateHelper/blob/main/LICENSE).
+The project is availabe under [AGPL-3.0 license](https://github.com/Rajaikumar-iOSDev/DateHelper/blob/main/LICENSE).
