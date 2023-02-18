@@ -1,16 +1,20 @@
 # 👷🏽 DateHelper
 
  A utility/helper to work with dates.
-
-This is an example for the usage of batch insertion in Core Data.
+ 
+## 📝 Some available features in this date helper
+ 1) Find number of days between two dates
+ 2) Find number of years between two dates
+ 3) Find whether the given date is the current year
+ 4) Find whether the given date is the yesterday
 
 ## 🥞Tech stack
 
-Xcode, Swift, Core Data & UIKit
+Xcode, Swift, Foundation & os.log
 
-## 📄Tutorial in Medium
+## 📄 Medium article
 
-Click the Medium badge to read the tutorial.
+Click the Medium badge to read the article.
 
 <a href="https://medium.com/nerd-for-tech/core-data-batch-insertion-ff9d2e2d4fd9"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=50></a> 
 
