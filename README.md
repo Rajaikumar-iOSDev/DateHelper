@@ -24,5 +24,6 @@ Click the Medium badge to read the article.
 # 🔖 Licence 
 The project is availabe under [AGPL-3.0 license](https://github.com/Rajaikumar-iOSDev/DateHelper/blob/main/LICENSE).
 
-# 🙏 Thanks
-Signal-iOS
+ ---------------------
+ Thanks 🙏 Signal-iOS.
+ ---------------------
