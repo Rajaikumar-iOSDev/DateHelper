@@ -16,7 +16,7 @@ Xcode, Swift, Foundation & os.log
 
 Click the Medium badge to read the article.
 
-<a href="https://medium.com/nerd-for-tech/core-data-batch-insertion-ff9d2e2d4fd9"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=50></a> 
+<a href="https://rajaikumar.medium.com/no-of-days-years-between-two-dates-d40f72e3e8b4"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=50></a> 
 
 # 👨‍💻 Author 
 [Rajai kumar](https://github.com/Rajaikumar-iOSDev)
